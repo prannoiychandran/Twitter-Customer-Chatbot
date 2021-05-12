@@ -7,7 +7,6 @@
 
 ## Results
 ![image](https://user-images.githubusercontent.com/78432605/118016039-eb20fe00-b322-11eb-8531-2784f691bddb.png)
-![image](https://user-images.githubusercontent.com/78432605/118016206-228faa80-b323-11eb-8d81-d48236aff95c.png)
 ![image](https://user-images.githubusercontent.com/78432605/118016127-068c0900-b323-11eb-8c73-f4bd9dfa7a58.png)
 ![image](https://user-images.githubusercontent.com/78432605/118015727-9aa9a080-b322-11eb-82f5-c2902d07c90e.png)
 ![image](https://user-images.githubusercontent.com/78432605/118015791-aa28e980-b322-11eb-9869-5026ceb692d7.png)
